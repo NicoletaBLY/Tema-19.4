@@ -3,7 +3,7 @@ text = 'geeks for geeks'
 
 print(text.split())
 
-print(text.split( "  " ))
+print(text.split( " R " ))
 
 word = 'geeks,for,geeks'
 print(word.split(","))
