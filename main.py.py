@@ -1,5 +1,6 @@
 
 text = 'geeks for geeks'
+text
 
 print(text.split())
 
